@@ -1,0 +1,14 @@
+#Editors
+*~
+*.swp
+\#*\#
+*.bak
+
+#Java
+/target
+
+#Eclipse
+/.classpath
+/.project
+/.settings
+
