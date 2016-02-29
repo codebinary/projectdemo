@@ -8,6 +8,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>BIENVENIDO AL SISTEMA</h1>
+        <a href="?action=login">Iniciar sesion</a>
     </body>
 </html>
